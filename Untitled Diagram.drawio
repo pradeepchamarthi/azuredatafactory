@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-31T20:44:45.468Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="vw7UA6j0DGI6tL-89Rui" version="13.6.4" type="github" pages="2">
+<mxfile modified="2020-08-31T20:45:00.835Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="iljrkzMcwweUlBACWGXZ" version="13.6.4" type="github" pages="2">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="tms">
     <mxGraphModel dx="1662" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="AWzvq9XBWHpSc_mT4nes-51" value="Power BI&lt;br&gt;Dashboard" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.power_bi_embedded;fillColor=#000000;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="351" width="44.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AWzvq9XBWHpSc_mT4nes-52" value="Extract Daily" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AWzvq9XBWHpSc_mT4nes-53" target="AWzvq9XBWHpSc_mT4nes-68" edge="1">
+        <mxCell id="AWzvq9XBWHpSc_mT4nes-52" value="Extract Daily" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AWzvq9XBWHpSc_mT4nes-68" target="AWzvq9XBWHpSc_mT4nes-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWzvq9XBWHpSc_mT4nes-53" value="On-prem TMS &lt;br&gt;SQL server&amp;nbsp;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.sql_server;" parent="1" vertex="1">
