@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-03T21:14:18.586Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="ndVHgm-ohky-aQAdDahN" version="13.6.6" type="github" pages="2">
+<mxfile modified="2020-09-03T21:15:23.013Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="S5FZmJySOH3rsRKMltoY" version="13.6.6" type="github" pages="2">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="tms">
     <mxGraphModel dx="1662" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,9 +17,6 @@
         </mxCell>
         <mxCell id="AWzvq9XBWHpSc_mT4nes-50" value="Databricks Spark&lt;br&gt;ADBDE" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="527.75" y="171.5" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AWzvq9XBWHpSc_mT4nes-51" value="Power BI&lt;br&gt;Dashboard" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.power_bi_embedded;fillColor=#000000;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="849.5" y="353" width="44.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AWzvq9XBWHpSc_mT4nes-52" value="Pull" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AWzvq9XBWHpSc_mT4nes-53" target="AWzvq9XBWHpSc_mT4nes-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,15 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AWzvq9XBWHpSc_mT4nes-59" value="Databricks Spark&lt;br&gt;ADBAH" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" parent="1" vertex="1">
-          <mxGeometry x="702" y="169" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AWzvq9XBWHpSc_mT4nes-60" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.442;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AWzvq9XBWHpSc_mT4nes-59" target="AWzvq9XBWHpSc_mT4nes-51" edge="1" treatAsSingle="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AWzvq9XBWHpSc_mT4nes-61" value="Query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AWzvq9XBWHpSc_mT4nes-60" vertex="1" connectable="0">
-          <mxGeometry x="-0.1305" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="702" y="170" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AWzvq9XBWHpSc_mT4nes-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AWzvq9XBWHpSc_mT4nes-63" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +65,7 @@
           <mxGeometry x="528" y="361" width="46.07" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AWzvq9XBWHpSc_mT4nes-64" value="SQL/ Python/ &lt;br&gt;R /Scala" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" parent="1" vertex="1">
-          <mxGeometry x="850" y="179" width="46" height="40" as="geometry" />
+          <mxGeometry x="850" y="180" width="46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AWzvq9XBWHpSc_mT4nes-65" value="Azure Cloud" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="894" y="106" width="50" height="35" as="geometry" />
