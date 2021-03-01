@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-01T06:06:04.876Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="mCF1uHlA7ov_kYUfA9Xq" version="14.4.2" type="github" pages="7">
+<mxfile modified="2021-03-01T14:05:29.073Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="qc3D-g7sNdljZPVAapjR" version="14.4.2" type="github" pages="7">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="tms">
     <mxGraphModel dx="1662" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1044,7 +1044,7 @@
         <mxCell id="wGtJK_RvSgVK72UwyU7H-0" value="eMFT" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.transfer_for_sftp;" vertex="1" parent="OFgDTAiS9r4XmJKg1N4c-1">
           <mxGeometry x="608.5" y="287" width="67" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="wGtJK_RvSgVK72UwyU7H-9" value="&lt;ul&gt;&lt;li&gt;TTS - FA: Trip Trade System Flight Attendant&lt;/li&gt;&lt;li&gt;TMS -Training Management System Pilots&lt;/li&gt;&lt;li&gt;CrewPay - FA and Pilots Activity and sequences&amp;nbsp;&lt;/li&gt;&lt;li&gt;FOSBATCH - Crew Member Master records and PVD uploads - New Hire and Return to Work&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="OFgDTAiS9r4XmJKg1N4c-1">
+        <mxCell id="wGtJK_RvSgVK72UwyU7H-9" value="&lt;ul&gt;&lt;li&gt;TTS - FA: Trip Trade System Flight Attendant&lt;/li&gt;&lt;li&gt;TMS -Training Management System Pilots&lt;/li&gt;&lt;li&gt;CREWPAY - FA and Pilots Activity and sequences&amp;nbsp;&lt;/li&gt;&lt;li&gt;FOSBATCH - Crew Member Master records and PVD uploads - New Hire and Return to Work&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="OFgDTAiS9r4XmJKg1N4c-1">
           <mxGeometry x="244" y="156" width="301" height="99" as="geometry" />
         </mxCell>
         <mxCell id="wGtJK_RvSgVK72UwyU7H-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="OFgDTAiS9r4XmJKg1N4c-1" source="wGtJK_RvSgVK72UwyU7H-10" target="wbLjB6cyDh_ARy63XKpD-1">
@@ -1061,6 +1061,21 @@
         </mxCell>
         <mxCell id="wGtJK_RvSgVK72UwyU7H-10" value="Retail In Motion" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;fillColor=#FFFFFF;" vertex="1" parent="OFgDTAiS9r4XmJKg1N4c-1">
           <mxGeometry x="805" y="161" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGtJK_RvSgVK72UwyU7H-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="OFgDTAiS9r4XmJKg1N4c-1" source="wGtJK_RvSgVK72UwyU7H-13" target="wbLjB6cyDh_ARy63XKpD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGtJK_RvSgVK72UwyU7H-15" value="LUS Crew History" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGtJK_RvSgVK72UwyU7H-14">
+          <mxGeometry x="-0.6343" y="-72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGtJK_RvSgVK72UwyU7H-13" value="Complex B" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mainframe;" vertex="1" parent="OFgDTAiS9r4XmJKg1N4c-1">
+          <mxGeometry x="970" y="156" width="80" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
